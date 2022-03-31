@@ -1,0 +1,6 @@
+numpy
+sympy
+matplotlib
+scipy
+scikit-learn
+future_fstrings

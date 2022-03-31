@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+src/Labopy/__init__.py
+src/Labopy.egg-info/PKG-INFO
+src/Labopy.egg-info/SOURCES.txt
+src/Labopy.egg-info/dependency_links.txt
+src/Labopy.egg-info/requires.txt
+src/Labopy.egg-info/top_level.txt
